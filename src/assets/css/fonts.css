@@ -1,0 +1,35 @@
+
+@font-face {
+    font-family: 'Podkova';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Podkova Regular'), local('Podkova-Regular'), url(../podkova/Podkova-Regular.ttf) format('ttf');
+}
+
+@font-face {
+    font-family: 'Podkova';
+    font-style: normal;
+    font-weight: 500;
+    src: local('Podkova Medium'), local('Podkova-Medium'), url(../podkova/Podkova-Medium.ttf) format('ttf');
+}
+
+@font-face {
+    font-family: 'Podkova';
+    font-style: normal;
+    font-weight: 600;
+    src: local('Podkova SemiBold'), local('Podkova-SemiBold'), url(../podkova/Podkova-SemiBold.ttf) format('ttf');
+}
+
+@font-face {
+    font-family: 'Podkova';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Podkova Bold'), local('Podkova-Bold'), url(../podkova/Podkova-Bold.ttf) format('ttf');
+}
+
+@font-face {
+    font-family: 'Podkova';
+    font-style: normal;
+    font-weight: 800;
+    src: local('Podkova ExtraBold'), local('Podkova-ExtraBold'), url(../podkova/Podkova-ExtraBold.ttf) format('ttf');
+}

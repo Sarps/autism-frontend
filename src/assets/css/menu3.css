@@ -1,0 +1,136 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    background-color: rgba(36, 121, 231, 0.719);
+
+}
+
+h2
+{
+    color: white;
+}
+
+.loginb
+{
+    font-family: "Century Gothic";
+    font-size: 15px;
+    border: none;
+    color: blue;
+    position: relative;
+    left: 50%;
+    width: 100px;
+    height: 50px;
+    cursor: pointer;
+    border: solid 1px blue;
+    background-color: rgba(255, 255, 255, 0);
+
+}
+
+.loginb.t
+{
+    left: 25%;
+    background-color: blue;
+    border: solid 1px blue;
+    color: white;
+    margin-right: 40px;
+}
+
+.loginb.o
+{
+    left: 34%;
+}
+
+.buttons
+{
+    position: relative;
+}
+
+
+.log_in
+{
+    width: 600px;
+    height: 450px;
+    background-color: rgba(255, 255, 255, 0.3);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-family: "Century Gothic";
+    border: solid 1px blue;
+}
+
+.flip
+{
+    background-color: limegreen;
+    width: 60%;
+    border-radius: 40px;
+    text-align: center;
+    left: 20%;
+    position: relative;
+    margin-bottom: 25px;
+}
+
+.white
+{
+    width: 50%;
+    height: 30vh;
+    background-color: white;
+    position: relative;
+    left: 25%;
+    margin-bottom: 10px;
+}
+
+/* WHITE BOX WORKS*/
+.over
+{
+    text-align: center;
+    padding-top: 1px;
+}
+
+.scolev
+{
+    position: absolute;
+    padding-left: 5px;
+}
+
+.circle
+{
+    height: 75px;
+    width: 75px;
+    background-color: brown;
+    border-radius: 50%;
+}
+
+.level
+{
+    position: relative;
+    top: 0%;
+    left: 250%;
+    text-align: center;
+}
+
+.score
+{
+    text-align: center;
+    top: 0%;
+    position: absolute;
+    left: 30%;
+}
+
+.circle p
+{
+    top: 25px;
+    position: relative;
+    font-size: 18px;
+}
+
+.circle.o
+{
+    background-color: rgb(253, 101, 0);
+}
+
+.circle.y
+{
+    background-color: yellow;
+}

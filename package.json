@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "vue": "^2.6.6",
+    "vue-audio": "0.0.12",
     "vue-router": "^3.0.1",
     "vuex": "^3.0.1"
   },
